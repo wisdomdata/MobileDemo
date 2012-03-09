@@ -1,0 +1,7 @@
+body {
+    color: red;
+    background-color: #ffffff;
+    font-size: 12px;
+    font-style: italic;    font-weight: bold;
+    font-family: Arial;
+}
