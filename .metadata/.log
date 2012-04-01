@@ -1,0 +1,9 @@
+!SESSION 2012-03-02 17:08:34.559 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_26
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.php.debug.core 4 4 2012-03-02 17:09:03.269
+!MESSAGE The debug port 10000 is in use. Please select a different port for the debugger.
